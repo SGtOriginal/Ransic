@@ -1,2 +1,2 @@
 # Ransic
-Random music generator using python. Utilizes random.org's random integer to get a random integer and based on the number, play a random audio file. Limitied to .mp3 and .wav for now.
+Random music player using python. Utilizes secretc module to play a specific duration of the audio file. I suppose interesing stuff could be done using this.
